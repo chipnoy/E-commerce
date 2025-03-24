@@ -1,0 +1,29 @@
+﻿,,,young,,,,,
+Row Labels,Sum of Purchase_Amount,,Row Labels,Count of Age Group,old,,,
+young,138865.93,,Animal Feed,20,Row Labels,Count of Age Group,,Row Labels
+(blank),,,Arts & Crafts,9,Animal Feed,24,,old
+Grand Total,138865.93,,Baby Products,19,Arts & Crafts,25,,High
+,,,Beauty & Personal Care,14,Baby Products,22,,Middle
+,,,Books,18,Beauty & Personal Care,20,,(blank)
+Row Labels,Sum of Purchase_Amount,,Clothing,13,Books,19,,(blank)
+old,136197.95,,Electronics,25,Clothing,17,,Grand Total
+(blank),,,Food & Beverages,22,Electronics,29,,
+Grand Total,136197.95,,Furniture,18,Food & Beverages,22,,
+,,,Gardening & Outdoors,26,Furniture,23,,
+,,,Groceries,23,Gardening & Outdoors,18,,
+Row Labels,,,Health Care,22,Groceries,18,,
+young,,,Health Supplements,22,Health Care,19,,
+High,,,Home Appliances,28,Health Supplements,19,,
+Middle,,,Hotels,20,Home Appliances,22,,
+Grand Total,,,Jewelry & Accessories,21,Hotels,16,,
+,,,Luxury Goods,21,Jewelry & Accessories,29,,
+,,,Mobile Accessories,24,Luxury Goods,16,,
+,,,Office Supplies,22,Mobile Accessories,17,,
+,,,Packages),21,Office Supplies,16,,
+,,,Software & Apps,23,Packages),22,,
+,,,Sports & Outdoors,27,Software & Apps,20,,
+,,,Toys & Games,22,Sports & Outdoors,24,,
+,,,Travel & Leisure (Flights,20,Toys & Games,25,,
+,,,Grand Total,500,Travel & Leisure (Flights,18,,
+,,,,,(blank),,,
+,,,,,Grand Total,500,,
